@@ -1,4 +1,6 @@
-package com.thyago.loaders;
+package com.thyago.loaders.api;
+
+import com.thyago.loaders.api.entity.GitHubRepo;
 
 import java.util.List;
 

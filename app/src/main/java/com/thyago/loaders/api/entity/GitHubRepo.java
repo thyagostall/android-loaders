@@ -1,4 +1,4 @@
-package com.thyago.loaders;
+package com.thyago.loaders.api.entity;
 
 public class GitHubRepo {
     private int id;

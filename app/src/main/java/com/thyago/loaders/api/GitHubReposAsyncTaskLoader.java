@@ -1,4 +1,4 @@
-package com.thyago.loaders;
+package com.thyago.loaders.api;
 
 import android.content.Context;
 import android.support.v4.content.AsyncTaskLoader;
@@ -7,6 +7,7 @@ import android.util.Log;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.thyago.loaders.api.entity.GitHubRepo;
 
 import java.io.IOException;
 import java.util.ArrayList;
